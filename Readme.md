@@ -5,6 +5,10 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 - Se Añade nuevo textos
 - Prueba git cherry
+<<<<<<< HEAD
+=======
+- Más textos
+>>>>>>> readme-mejorado
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
