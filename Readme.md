@@ -3,12 +3,8 @@ Un blog increíble para el curso de Git y Github de Platzi
 
 > El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 
-<<<<<<< HEAD
-=======
 - Se Añade nuevo textos
 - Prueba git cherry
-
->>>>>>> 5d40d00 (Nuevo text 1)
 
 ## En este curso vemos de todo
 * Todos los comandos de Git
